@@ -70,7 +70,7 @@
 
         &__large-4 {
             float: left;
-            width33.33%;
+            width: 33.33%;
         }
 
         &__large-4--larger {
@@ -84,7 +84,7 @@
 
         &__large-8 {
             float: left;
-            width:66.66%;
+            width: 66.66%;
         }
 
         &__large-8--smaller {
